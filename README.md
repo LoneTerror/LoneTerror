@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoneTerror
+- 👋 Hi, I’m Prasun Chakraborty
 - 👀 I’m interested in Web Development, Server Management
 - 🌱 I’m currently pursuing BTech - IT
 - 📫 How to reach me nothingshere21@gmail.com / Discord: prasun
