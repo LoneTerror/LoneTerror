@@ -1,6 +1,19 @@
-- 👋 Hi, I’m Prasun Chakraborty
-- 👀 I’m interested in Web Development, Server Management, Android Development
-- 🌱 I’m currently an undergrad BTech - IT 
-- 📫 Contact: nothingshere21@gmail.com / Discord: prasun
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Even though ChatGPT helps me it's still not 100% accurate, I still have to debug it!
+# Prasun Chakraborty
+
+  Undergrad BTech - IT | 2024-26
+  Gauhati University Institute of Science & Technology
+
+  Skills:
+  
+  # > Full Stack Web Developer
+    - HTML
+    - CSS
+    - JS
+    - PHP
+      
+  # > MERN Stack
+
+Reach me at: 
+Email: nothingshere21@gmail.com 
+LinkedIn: https://www.linkedin.com/in/prasun-chakraborty-287246257/
+Discord: prasun
